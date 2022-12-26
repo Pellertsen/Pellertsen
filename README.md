@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pellertsen
+- 👀 I’m interested in learning about coding, and using it to analyzing data.
+- 🌱 I’m currently learning Python, analyzing data and building a portfolio. I'm tak
+- 💞️ I’m taking a one-year online study in data analysis, and a master's degree in Economics and Business Administration. My major is business analytics.
